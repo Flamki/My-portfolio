@@ -54,7 +54,7 @@ export const BentoGridItem = ({
   const lottieRef = useRef<any>(null);
 
   const handleCopy = () => {
-    const text = "hsu@jsmastery.pro";
+    const text = "9833Ayush@gmail.com";
     navigator.clipboard.writeText(text);
     setCopied(true);
     if (lottieRef.current) {

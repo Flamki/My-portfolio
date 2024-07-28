@@ -173,15 +173,15 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "Website Development",
+      desc: "Developed and maintained websites, implementing responsive designs and optimizing performance. Applied expertise in HTML, CSS, JavaScript, and React.js to deliver high-quality web solutions.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      title: "Mobile App Dev",
+      desc: "Designed and developed mobile app for Android platforms using React Native.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
@@ -194,8 +194,8 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Custom Bots Developer",
+      desc: "Created and integrated custom bots for automation and user interaction, enhancing functionality and efficiency across various applications.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
